@@ -10,4 +10,4 @@ Author URI: http://www.rubidiumweb.fr/
 
 
 
-echo 'sfdf';
+echo 's';
