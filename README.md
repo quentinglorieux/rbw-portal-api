@@ -1,1 +1,1 @@
-# rbw-portal-api
+# RbW Portal API plugin
