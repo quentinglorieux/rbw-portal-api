@@ -10,4 +10,3 @@ Author URI: http://www.rubidiumweb.fr/
 
 
 
-echo 's';
